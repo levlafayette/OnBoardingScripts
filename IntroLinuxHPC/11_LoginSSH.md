@@ -34,7 +34,7 @@ authentication has a couple of drawbacks:
 * It is all based on the single factor of what you know. If what you know can be discovered or guessed, then it is easy for 
 someone else to log in as you. Better security comes from layering multiple factors for authentication.
 
-* It is less convenient to automate, if you want to programmatically access your account in a non-interactive way.
+* It is less convenient to automate, allowing users to programmatically access a system in an non-interactive way.
 
 Keypair authentication overcomes both of these issues: it adds an extra authentication factor (something you have), and it 
 permits logging in without a password, which is much more convenient.
