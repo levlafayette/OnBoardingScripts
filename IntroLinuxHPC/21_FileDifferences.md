@@ -5,10 +5,11 @@ be a problem! How does one determine which file is which?
 
 If one's memory is good, the ls -l command will provide a timestamp of when the file was last modified.
 
-
 Differences in content can be determined by the diff command. Or, with a side-by-side representation with sdiff. Note that 
 diff is very important as it provides output that can act as script to the very old text editor, ed, which can then be used 
 to create patch files.
+
+There is also a diff3 command that compares three files line-by-line!
 
 Further, there is the comm command, which compares two files sorted line by line.  The first column contains lines unique to 
 the first file, column two contains lines unique to the second file and column three contains lines common to both files. 
