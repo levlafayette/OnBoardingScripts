@@ -2,7 +2,7 @@ Welcome to the Introduction to Linux for High Performance Computing workshop. My
 the content for this workshop. This workshop is provided by University of Melbourne's Research Computing Services, which 
 provides high performance computing, cloud computing, and data storage.
 
-This workshop consists of four modules, each designed to take up approximately thirty minutes.
+This workshop consists of four modules, each designed to take up approximately sixty minutes.
 
 The first module is "Supercomputers and Spartan", which will provide a high-level overview of supercomputers and Spartan, 
 the general-purposes supercomputer at the University of Melbourne.
