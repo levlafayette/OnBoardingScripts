@@ -2,7 +2,7 @@ There is a significant amount of resources available for using Spartan and HPC.
 
 The canonical version of this workshop is available on github at:
 
-[EDIT]
+https://github.com/levlafayette/OnBoardingScripts/tree/main/IntroLinuxHPC
 
 An older version of the course and content, with sample code is available on github: 
 https://github.com/levlafayette/SpartanIntro
