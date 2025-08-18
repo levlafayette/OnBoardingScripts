@@ -15,6 +15,8 @@ of floating-point operations per second (FLOPS) that a system can carry out, It 
 hundred public supercomputer systems, a list that is updated twice a year.
 http://top500.org/
 
+The number #1 system is currently El Capitan at the Lawrence Livermore National Laboratory, USA.
+
 Question: What percentage of the Top 500 computers use Linux as their operating system?
 Answer: 100% of the Top500 has been Linux since November 2017.
 https://www.top500.org/statistics/details/osfam/1/
