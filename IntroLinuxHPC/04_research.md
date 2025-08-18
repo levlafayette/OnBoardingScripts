@@ -30,6 +30,10 @@ Replication is a major assumption of the scientific method, yet, even in medicin
 False" 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/
 
+Which actually has led to some positive changes! "The replication crisis has led to positive structural, procedural, and 
+community changes"
+https://www.nature.com/articles/s44271-023-00003-2
+
 Using consistent computing environments and datasets helps reduce this possibility, therefore it is important that all 
 researchers are aware of the best practices to improve the probability of replication of findings.
 
