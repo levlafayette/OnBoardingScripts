@@ -13,6 +13,22 @@ There are plenty of job submissions examples in the /apps/examples directory. We
 
 Support tickets can be submitted through the HPC dashboard site: https://dashboard.hpc.unimelb.edu.au/training_help/
 
+Please read the Message of the Day when you login! University regulations, system upgrades, outages, etc are included in the MotD.
+
+Please read relevant documentation including the policies and process that we have on the HPC dashboard (this site), job submission examples in /apps/examples and Slurm error messages.
+
+Don't try to use sudo. Spartan is a shared system and allowing users access to sudo would impact every other user's work in unpredictable ways, as well as being a major security risk.
+
+Don't try to install software with apt, yum, or similar package managers. Software can be installed system-wide by administrators for use in the environment modules system. Users can install extensions for Python, Perl, R etc by following the relevant instructions in /apps/examples.
+
+Don't email individual system administrators for HPC support. We need consolidated records. Use the ticketing system instead.
+
+Please be informative about the error or issue that you are facing in your ticket requests. Also, try to ensure you have separate tickets for separate issues.
+
+Please listen to the suggestions of HPC sysadmins, especially when expressed in the negative ("don't try this", "this will not work", etc).
+
+Support for Spartan is offered during normal business hours, i.e., 9am to 5pm Monday to Friday.
+
 Several other courses are also conducted by Research Computing Services, such as Advanced Linux and Shell Scripting for HPC, Regular Expressions with Linux on HPC, Parallel Processing, GPU Applications and Programming, Mathematical Applications and Programming, and more.
 
 There is even a book which a good portion of this content comes from:
