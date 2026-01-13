@@ -22,7 +22,6 @@ Consider the difference between "rm *.bak" to "rm * .bak". The first will remove
 second will remove all files in a directory and then helpfully inform the user there is no .bak file to delete! Perhaps not 
 what is desired!
 
-
 $ rm gattaca.txt
 $ rmdir braf/
 $ rm -rf braf/
