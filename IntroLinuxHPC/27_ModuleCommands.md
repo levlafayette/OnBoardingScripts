@@ -1,14 +1,16 @@
 **Module Commands**
 
-Because logging into the system invokes a number of modules automatically, a `module list` command will display some even if they haven't been loaded by the user.
+Because logging into the system invokes a number of modules automatically, a `module list` command will display some even if 
+they haven't been loaded by the user.
 
 Some other commands include the following:
 
-`module help`                 List of switches, commands and arguments for modules
-`module avail`                Lists all the modules which are available to be loaded.`module display <modulefile>` Display paths etc for modulefile
-`module load <modulefile>`    Loads paths etc to user's environment
-`module unload <modulefile>`  Unloads paths etc from user's environment.
-`module list`                 lists all the modules currently loaded.
+`module help` List of switches, commands and arguments for modules 
+`module avail` Lists all the modules which are available to be loaded
+`module display <modulefile>` Display paths etc for modulefile 
+`module load <modulefile>` Loads paths etc to user's environment 
+`module unload <modulefile>` Unloads paths etc from user's environment 
+`module list` lists all the modules currently loaded
 
 There is also the `module switch <modulefile1> <modulefile2>`, which unloads one modulefile (modulefile1) and loads another 
 (modulefile2).

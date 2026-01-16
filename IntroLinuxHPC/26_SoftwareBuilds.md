@@ -17,3 +17,5 @@ https://docs.easybuild.io/en/latest/version-specific/generic_easyblocks.html
 On Spartan, a collection of the Easybuild scripts can be found at the following path:
 
 $ /apps/easybuild-2022/easybuild/local-easybuild/
+
+Users can access this collection if they wish to build their own custom versions of software.

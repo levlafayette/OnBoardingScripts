@@ -1,7 +1,8 @@
 **A Dynamic Environment**
 
-Environment modules provide for the dynamic modification of the user's environment via module files, such as the location of 
-the application's executables, manual path, libraries, and so forth.
+Environment modules provide for the dynamic modification of the user's environment via module files, such as the location of the 
+application's executables, manual path, libraries, and so forth. An environment variable is a user-definable value that can 
+affect the way running processes will behave on a computer.
 
 Modulefiles also have the advantages of being shared on many users on a system (such as an HPC system) and easily allowing 
 multiple installations of the same application but with different versions and compilation options. Why would we want to do 
