@@ -5,9 +5,9 @@ generic script of this form will look like the following.
 
 ```
 #!/bin/bash
-#SBATCH -­p physical
-#SBATCH ­­--nodes=2
-#SBATCH ­­--ntasks-per-node=8
+#SBATCH -p sapphire
+#SBATCH --nodes=2
+#SBATCH --ntasks-per-node=8
 module load my­app­compiler/version
 srun my­mpi­app
 ```
